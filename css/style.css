@@ -7,6 +7,9 @@
 .menu li{
     margin-top: 20px;
 }
+.hero{
+    margin-top: 30px;
+}
 .heroH{
     font-size: 20px;
     color: #DF6951;
@@ -30,5 +33,18 @@
 .heroBtn{
     padding: 18px 26px;
     background-color: #F1A501;
-    border: 1px solid;
+    border-radius: 10px;
+    border: none;
+    color: white;
+    font-size: 18px;
+}
+.login{
+    border: none;
+    background: none;
+}
+.play{
+    margin-top: 35px;
+}
+.playP{
+    margin-top: 25px;
 }
