@@ -1,0 +1,34 @@
+.btn{
+    border-radius: 5px;
+}
+.en{
+    margin-top: 12px;
+}
+.menu li{
+    margin-top: 20px;
+}
+.heroH{
+    font-size: 20px;
+    color: #DF6951;
+    font-weight: bold;
+}
+.heroP{
+    font-size: 16px;
+    color: #5E6282;
+    font-weight: medium;
+    width: 477px;
+}
+.heroT{
+    font-size: 84px;
+    color: #181E4B;
+    font-weight: bold;
+    width: 589px;
+    line-height: 89px;
+    margin-top: 24px;
+    margin-bottom: 30px;
+}
+.heroBtn{
+    padding: 18px 26px;
+    background-color: #F1A501;
+    border: 1px solid;
+}
